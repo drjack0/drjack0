@@ -33,6 +33,7 @@ Hello world! My name is Matteo Giaccone and I’m an aspiring full stack develop
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
                     </p>
+                    
 ### Socials
                   
 <p align="left">
@@ -41,5 +42,9 @@ Hello world! My name is Matteo Giaccone and I’m an aspiring full stack develop
                           
                       <a href="https://www.linkedin.com/in/giaccone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.medium.com/drjack0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      <a href="http://www.medium.com/drjack0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+                      
+### Badges
+
+<b>My GitHub Stats</b><a
                       href="http://www.github.com/drjack0"><img src="https://github-readme-stats.vercel.app/api?username=drjack0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="drjack0's GitHub stats" /></a>
