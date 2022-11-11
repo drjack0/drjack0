@@ -7,8 +7,8 @@ Full Stack Developer
 Hello world! My name is Matteo Giaccone and I’m an aspiring full stack developer. I finished my Bachelor’s in Software Engineering in December 2020, with a graduation score of 99/110, and, at the moment, I’m studying at “Sapienza University of Rome” to obtain the Master’s Degree in Engineering in Computer Science. During this years of books, math and coding, I’ve experimented lots of programming languages and architectural approaches, but my way is, no doubt, cloud architectures and Full Stack Developing, with a particular focus on AWS, NoSQL, Javascript and the enormous potential that these three entities, together, can show. My ambition is to be able to continue learning and experimenting in this field, also improving my skills in the field of problem solving and teamwork, so that I can always take new paths and face ever greater challenges.
 
 *   🌍  I'm based in Rome
-*   🖥️  See my portfolio at [drjack0.com](http://https://drjack0.com/)
-*   ✉️  You can contact me at [info@drjack0.com](mailto:info@drjack0.com)
+*   🖥️  See my portfolio at [drjack0.github.io](http://https://drjack0.github.io/)
+*   ✉️  You can contact me at [drjackdevelopment@gmail.com](mailto:drjackdevelopment@gmail.com)
 
 ### Skills
 
