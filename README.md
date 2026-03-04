@@ -1,7 +1,7 @@
 Hi 👋 My name is Matteo Giaccone
 ================================
 
-Full Stack Developer
+SWE & Solution Architect
 --------------------
 
 Hello world!
